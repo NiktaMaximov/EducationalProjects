@@ -1,0 +1,15 @@
+D:\ProjectsHome\TestProjects\Streams\Streams\bin\Debug\net6.0\Streams.exe
+D:\ProjectsHome\TestProjects\Streams\Streams\bin\Debug\net6.0\Streams.deps.json
+D:\ProjectsHome\TestProjects\Streams\Streams\bin\Debug\net6.0\Streams.runtimeconfig.json
+D:\ProjectsHome\TestProjects\Streams\Streams\bin\Debug\net6.0\Streams.dll
+D:\ProjectsHome\TestProjects\Streams\Streams\bin\Debug\net6.0\Streams.pdb
+D:\ProjectsHome\TestProjects\Streams\Streams\obj\Debug\net6.0\Streams.csproj.AssemblyReference.cache
+D:\ProjectsHome\TestProjects\Streams\Streams\obj\Debug\net6.0\Streams.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProjectsHome\TestProjects\Streams\Streams\obj\Debug\net6.0\Streams.AssemblyInfoInputs.cache
+D:\ProjectsHome\TestProjects\Streams\Streams\obj\Debug\net6.0\Streams.AssemblyInfo.cs
+D:\ProjectsHome\TestProjects\Streams\Streams\obj\Debug\net6.0\Streams.csproj.CoreCompileInputs.cache
+D:\ProjectsHome\TestProjects\Streams\Streams\obj\Debug\net6.0\Streams.dll
+D:\ProjectsHome\TestProjects\Streams\Streams\obj\Debug\net6.0\refint\Streams.dll
+D:\ProjectsHome\TestProjects\Streams\Streams\obj\Debug\net6.0\Streams.pdb
+D:\ProjectsHome\TestProjects\Streams\Streams\obj\Debug\net6.0\Streams.genruntimeconfig.cache
+D:\ProjectsHome\TestProjects\Streams\Streams\obj\Debug\net6.0\ref\Streams.dll
